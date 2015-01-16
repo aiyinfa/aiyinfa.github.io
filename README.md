@@ -1,4 +1,4 @@
-# 安人心智微信文章索引
+# 爱银发微信文章索引
 
 采用[Jekyll-Bootstrap](https://github.com/plusjade/jekyll-bootstrap/)构建.
 
