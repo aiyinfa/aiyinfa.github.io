@@ -2,7 +2,7 @@
 layout: post
 title: "Anrenmind"
 description: "微信文章安人心智栏目索引"
-category: articles
+category: 总目录
 tags: [产业]
 ---
 {% include JB/setup %}
